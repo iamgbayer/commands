@@ -3,15 +3,18 @@
 
 ### Add the user to the docker group
 
-Add a user to docker group:
-```bash
 Add the docker group if it doesn't already exist:
+```bash
 sudo groupadd docker
+```
 
 Add the connected user "${USER}" to the docker group:
+```bash
 sudo gpasswd -a ${USER} docker
+```
 
 Restart the Docker daemon:
+```bash
 sudo service docker restart
 ```
 
