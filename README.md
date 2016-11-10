@@ -4,7 +4,7 @@
 ## Docker :whale:
 
 - [Add the user to the docker group](https://github.com/guuibayer/commands/blob/master/tools/docker.md#add-the-user-to-the-docker-group)
-- [Install composer dependencies](https://github.com/guuibayer/commands/blob/master/tools/docker.md#install-composer-dependencies)
+- [Run command in disposable container](https://github.com/guuibayer/commands/blob/master/tools/docker.md#run-command-in-disposable-container)
 - [Delete containers with status exited](https://github.com/guuibayer/commands/blob/master/tools/docker.md#delete-containers-with-status-exited)
 
 ## Git :arrows_clockwise:
