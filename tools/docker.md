@@ -24,5 +24,9 @@ Runs a disposable container and install composer dependencies:
 
 ```bash
 sudo docker run --rm -v $(pwd):/app composer/composer install
+```
 
+### Delete containers with status exited
+```bash
+docker rm -f $(docker ps -f status=exited -q | tr '\r\n' ' ')
 ```
