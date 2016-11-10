@@ -18,9 +18,9 @@ Restart the Docker daemon:
 sudo service docker restart
 ```
 
-### Install composer dependencies
+### Run command in disposable container
 
-Runs a disposable container and install composer dependencies:
+Runs a disposable container and also execute a command in with specific image:
 
 ```bash
 sudo docker run --rm -v $(pwd):/app composer/composer install
