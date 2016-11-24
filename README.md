@@ -14,5 +14,6 @@
 
 ## NPM :package:
 - [Disable SSL certificate in NPM](https://github.com/guuibayer/commands/blob/master/tools/npm.md#disable-ssl-certificate-in-npm)
+- [Set a custom registry](https://github.com/guuibayer/commands/blob/master/tools/npm.md#set-a-custom-registry)
 
 ## Bash :heart:
