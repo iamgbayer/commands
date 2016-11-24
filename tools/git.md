@@ -10,3 +10,9 @@ git config --global http.sslVerify false
 git config --global user.name "username"
 git config --global user.email "email"
 ```
+
+### Undoing last commit 
+```bash
+git reset --soft HEAD~1
+```
+
