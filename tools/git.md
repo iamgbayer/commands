@@ -16,3 +16,8 @@ git config --global user.email "email"
 git reset --soft HEAD~1
 ```
 
+### Save your credentials permanently
+```
+git config --global credential.helper store
+
+```
