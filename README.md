@@ -11,6 +11,7 @@
 - [Disable SSL certificate checking globally](https://github.com/guuibayer/commands/blob/master/tools/git.md#disable-ssl-certificate-checking-globally)
 - [Users settings globally](https://github.com/guuibayer/commands/blob/master/tools/git.md#users-settings-globally)
 - [Undoing last commit](https://github.com/guuibayer/commands/blob/master/tools/git.md#undoing-last-commit)
+- [Save your credentials permanently](https://github.com/guuibayer/commands/blob/master/tools/git.md#save-your-credentials-permanently)
 
 ## NPM :package:
 - [Disable SSL certificate in NPM](https://github.com/guuibayer/commands/blob/master/tools/npm.md#disable-ssl-certificate-in-npm)
